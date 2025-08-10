@@ -5,5 +5,5 @@
 
 <br />
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtfy&&theme=transparent&layout=compact&hide_border=true&card_width=420&text_color=6699FF" title="mtfy's Most Used Languages" alt="mtfy's Most Used Languages" />&#xa0;<img src="https://github-readme-stats.vercel.app/api?username=mtfy&theme=transparent&hide=prs,issues&count_private=true&hide_border=true&card_width=420&text_color=6699FF" title="mtfy's GitHub Statistics" alt="mtfy's GitHub Statistics" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtfy&&theme=transparent&layout=compact&hide_border=true&card_width=420&text_color=6699FF" title="mtfy's Most Used Languages" alt="mtfy's Most Used Languages" />&#xa0;<img src="[https://github-readme-stats.vercel.app/api?username=mtfy&theme=transparent&hide=prs,issues&count_private=true&hide_border=true&card_width=420&text_color=6699FF" title="mtfy's GitHub Statistics](https://camo.githubusercontent.com/fe0f88b774073e63639fd933d971ef72bcd80e7f01fa751be034398de538256d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6175647369732673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e7426686964655f626f726465723d74727565)" alt="mtfy's GitHub Statistics" />
 </p>
